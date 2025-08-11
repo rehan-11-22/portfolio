@@ -38,7 +38,7 @@ const projects = [
       "I built E-Cure, a healthcare site for booking doctor appointments, with an admin dashboard for management and a chatbot powered by our SQL database.",
     image: "/projects/E-CureHub.png",
     tags: ["React", "CSS", "Node JS", "SQL", "MongoDB"],
-    demoUrl: "",
+    demoUrl: "#",
     githubUrl: "https://github.com/rehan-11-22/e-clinic",
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     image: "/projects/netflix.png",
     tags: ["React", "TailwindCSS"],
     demoUrl: "https://netlfixapp.netlify.app/",
-    githubUrl: "",
+    githubUrl: "#",
   },
 ];
 
