@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Movix",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "I developed a movie app named Movix using ReactJS, offering an intuitive interface for users to explore and discover films",
     image: "/projects/movix.png",
     tags: ["React", "TailwindCSS"],
     demoUrl: "https://rmovix.netlify.app/",
@@ -35,7 +35,7 @@ const projects = [
     id: 4,
     title: "E-Cure Hub",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "I built E-Cure, a healthcare site for booking doctor appointments, with an admin dashboard for management and a chatbot powered by our SQL database.",
     image: "/projects/E-CureHub.png",
     tags: ["React", "CSS", "Node JS", "SQL", "MongoDB"],
     demoUrl: "",
