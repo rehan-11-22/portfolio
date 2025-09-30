@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Movix",
     description:
-      "I developed a movie app named Movix using ReactJS, offering an intuitive interface for users to explore and discover films",
+      "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/movix.png",
     tags: ["React", "TailwindCSS"],
     demoUrl: "https://rmovix.netlify.app/",
@@ -35,10 +35,10 @@ const projects = [
     id: 4,
     title: "E-Cure Hub",
     description:
-      "I built E-Cure, a healthcare site for booking doctor appointments, with an admin dashboard for management and a chatbot powered by our SQL database.",
+      "Full-featured e-commerce platform with user authentication and payment processing.",
     image: "/projects/E-CureHub.png",
     tags: ["React", "CSS", "Node JS", "SQL", "MongoDB"],
-    demoUrl: "#",
+    demoUrl: "",
     githubUrl: "https://github.com/rehan-11-22/e-clinic",
   },
   {
@@ -49,10 +49,19 @@ const projects = [
     image: "/projects/netflix.png",
     tags: ["React", "TailwindCSS"],
     demoUrl: "https://netlfixapp.netlify.app/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/rehan-11-22",
+  },
+  {
+    id: 5,
+    title: "Hostel Management System",
+    description:
+      " Engineered a role-based hostel management platform with four user roles, JWT security, and comprehensive features ",
+    image: "/projects/hms.png",
+    tags: ["MERN Stack"],
+    demoUrl: "https://uhm-fe.vercel.app/",
+    githubUrl: "https://github.com/rehan-11-22/university-hostel-management",
   },
 ];
-
 export const ProjectsSection = () => {
   return (
     <section id="projects" className="py-24 px-4 relative">
